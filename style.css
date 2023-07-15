@@ -1,4 +1,5 @@
 * {
+    font-family: "Comic Sans MS";
     line-height: 1.5;
 
 }
@@ -17,6 +18,9 @@ img {
 ul, ol {
     list-style-position: inside;
     text-align: left;
+}
+li {
+    font-family: cursive;
 }
 
 .steps {
