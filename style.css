@@ -1,0 +1,29 @@
+* {
+    line-height: 1.5;
+
+}
+h1, h3{
+    text-align: center;
+}
+
+img {
+    height: auto;
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul, ol {
+    list-style-position: inside;
+    text-align: left;
+}
+
+.steps {
+    margin: 20px 0;
+}
+
+.options {
+    text-align: center;
+    list-style: none;
+}
